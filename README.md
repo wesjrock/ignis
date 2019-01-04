@@ -33,6 +33,8 @@ With the use of beacon technology, you can do it.
 
 The Host interface
 
+
+
 ![Screenshot 4](img/user1.png)
 
 The user interface
