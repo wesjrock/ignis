@@ -28,11 +28,12 @@ With the use of beacon technology, you can do it.
 
 ![Screenshot 2](img/img2.png)
 
+INTERFACE
+--------------------------------------------------
 
 ![Screenshot 3](img/host.png)
 
 The Host interface
-
 
 
 ![Screenshot 4](img/user1.png)
