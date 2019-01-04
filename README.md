@@ -19,7 +19,7 @@ There are two versions of the application:
 * The host app: this is used by the person who's hosting an event.
 * The user app: this is for the participants.
 
-Through the host app, the person who's in charge of the event can Add events with Geolocation and start hosting it, then the users can register themselves in the application and participate.
+Through the host app, the person who's in charge of the event can Add events with Geolocation and start hosting it, then the users can register themselves in the event and participate.
 
 How is this possible and how can you control it in real time? 
 With the use of beacon technology, you can do it.
