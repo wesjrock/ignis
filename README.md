@@ -25,10 +25,13 @@ How is this possible and how can you control it in real time?
 With the use of beacon technology, you can do it.
 
 ![Screenshot 2](img/img2.png)
+
 ![Screenshot 3](img/host.png)
 The Host interface
+
 ![Screenshot 4](img/user1.png)
 The user interface
+
 ![Screenshot 5](img/user2.png)
 
 WHAT IS A BEACON AND HOW DOES IT WORK?
