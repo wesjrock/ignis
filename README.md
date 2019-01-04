@@ -27,6 +27,7 @@ How is this possible and how can you control it in real time?
 With the use of beacon technology, you can do it.
 
 ![Screenshot 2](img/img2.png)
+<p align="center">Application Architecture</p>
 
 INTERFACE
 --------------------------------------------------
@@ -53,9 +54,11 @@ Bluetooth beacons are hardware transmitters - a class of Bluetooth low energy de
 ![Screenshot 6](img/img3.png)
 <p align="center">System Architecture</p>
 
+
 FRAMEWORKS AND PLATFORMS
 --------------------------------------------------
 Apple Swift to implement the application and Google Firebase for the database.
+
 
 PROJECT CHARTER AND BUSINESS MODEL CANVAS
 --------------------------------------------------
