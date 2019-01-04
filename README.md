@@ -44,7 +44,7 @@ The user interface: the student registered himself in the app and now he can par
 
 WHAT IS A BEACON AND HOW DOES IT WORK?
 --------------------------------------------------
-Plese watch this [video]
+Please watch this [video]
 
 Bluetooth beacons are hardware transmitters - a class of Bluetooth low energy devices that broadcast their identifier to nearby portable electronic devices. The technology enables smartphones, tablets and other devices to perform actions when in close proximity to a beacon.
 
