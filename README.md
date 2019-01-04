@@ -33,12 +33,12 @@ INTERFACE
 
 ![Screenshot 3](img/host.png)
 
-The Host interface
+The Host interface: in this case, the professor added an event called Aula Incrível which is a lecture and started hosting it.
 
 
 ![Screenshot 4](img/user1.png)
 
-The user interface
+The user interface: the student registered himself in the app and now he can participate.
 
 ![Screenshot 5](img/user2.png)
 
