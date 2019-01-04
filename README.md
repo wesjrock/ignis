@@ -57,7 +57,7 @@ Apple Swift to implement the application and Google Firebase for the database.
 
 PROJECT CHARTER AND BUSINESS MODEL CANVAS
 --------------------------------------------------
-Our team made a project charter and a business model canvas which you can download in this repository.
+There is a project charter and a business model canvas which you can download in this repository.
 
 ![Screenshot 6](img/charter.png)
 
