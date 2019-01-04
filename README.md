@@ -1,6 +1,6 @@
 # IGNIS
 
-![Screenshot 1](img/img1.png)
+<div style="text-align:center"><img src ="img/img1.png" /></div> 
 
 OVERVIEW
 --------------------------------------------------
