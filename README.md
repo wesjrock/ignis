@@ -26,10 +26,13 @@ With the use of beacon technology, you can do it.
 
 ![Screenshot 2](img/img2.png)
 
+
 ![Screenshot 3](img/host.png)
+
 The Host interface
 
 ![Screenshot 4](img/user1.png)
+
 The user interface
 
 ![Screenshot 5](img/user2.png)
@@ -50,6 +53,7 @@ Apple Swift language to implement the application and Google Firebase for the da
 PROJECT CHARTER AND BUSINESS MODEL CANVAS
 --------------------------------------------------
 Our team made a project charter and a business model canvas which you can download in this repository.
+
 ![Screenshot 6](img/charter.png)
 
 WHERE IS THE CODE?
