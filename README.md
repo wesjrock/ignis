@@ -33,14 +33,16 @@ INTERFACE
 
 ![Screenshot 3](img/host.png)
 
-The Host interface: in this case, the professor added an event called Aula Incrível which is a lecture and started hosting it.
+* The Host interface: in this case, the professor added an event called Aula Incrível which is a lecture and started hosting it.
 
 
 ![Screenshot 4](img/user1.png)
 
-The user interface: the student registered himself in the app and now he can participate.
+* The user interface: the student registered himself in the app and now he can participate.
 
 ![Screenshot 5](img/user2.png)
+
+The host app can now view the number and information about the participant.
 
 WHAT IS A BEACON AND HOW DOES IT WORK?
 --------------------------------------------------
@@ -49,7 +51,7 @@ Please watch this [video]
 Bluetooth beacons are hardware transmitters - a class of Bluetooth low energy devices that broadcast their identifier to nearby portable electronic devices. The technology enables smartphones, tablets and other devices to perform actions when in close proximity to a beacon.
 
 ![Screenshot 6](img/img3.png)
-System Architecture
+<p text-align="center">System Architecture</p>
 
 FRAMEWORKS AND PLATFORMS
 --------------------------------------------------
