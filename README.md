@@ -48,7 +48,7 @@ System Architecture
 
 FRAMEWORKS AND PLATFORMS
 --------------------------------------------------
-Apple Swift language to implement the application and Google Firebase for the database.
+Apple Swift to implement the application and Google Firebase for the database.
 
 PROJECT CHARTER AND BUSINESS MODEL CANVAS
 --------------------------------------------------
