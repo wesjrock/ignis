@@ -1,6 +1,6 @@
 # IGNIS
 
-<div style="text-align:center"><img src ="img/img1.png" /></div> 
+<img align="center" src ="img/img1.png" />
 
 OVERVIEW
 --------------------------------------------------
