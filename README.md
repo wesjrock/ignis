@@ -68,10 +68,6 @@ There is a project charter and a business model canvas which you can download in
 
 ![Screenshot 6](img/charter.png)
 
-WHERE IS THE CODE?
---------------------------------------------------
-The code is proprietary and this project is only part of my portfolio.
-
 CREDITS
 --------------------------------------------------
 - Bruno Sena da Silva
@@ -80,6 +76,10 @@ CREDITS
 - Oscar Cardoso de Lima Neto
 - Renato José Alves da Silva
 - Wesley Tiozzo
+
+WHERE IS THE CODE?
+--------------------------------------------------
+The code is proprietary and this project is part of each member's portfolio.
 
 MORE INFO
 --------------------------------------------------
