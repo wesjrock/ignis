@@ -8,6 +8,7 @@ OVERVIEW
 --------------------------------------------------
 The purpose of this project was to implement a mobile application that integrates Beacon Technology and make use of Computer Network and Wireless Communication concepts for the [Computer Networks and Advanced Communication] course. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
 The beacon used in this project was provided by a local company.
+
 There was a workshop promoted by the University of São Paulo and CeMEAI (Research Center for Mathematical Sciences Applied to the Industry) in which companies came to see the projects that were made in this course. The idea of proposing Beacon applications was from a local company which made a contest called Be An Icon. The workshop was the last checkpoint of the Computer Networks and Advanced Communication course. 
 
 PROJECT
