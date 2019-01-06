@@ -72,6 +72,15 @@ WHERE IS THE CODE?
 --------------------------------------------------
 The code is proprietary and this project is only part of my portfolio.
 
+CREDITS
+--------------------------------------------------
+- Bruno Sena da Silva
+- Leonardo Sampaio Ferraz Ribeiro
+- Luana Okino Sawada
+- Oscar Cardoso de Lima Neto
+- Renato José Alves da Silva
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 * Please check all the files in this repository to know more about this project.
